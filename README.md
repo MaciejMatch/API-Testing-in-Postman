@@ -44,10 +44,10 @@ Base URL: https://jsonplaceholder.typicode.com/
 
 
 ## 📝 Test Documentation
-Additional test documentation is available in the /docs directory:
-- test-scenarios.md 
-- test-cases.md 
-- test-scenarios-negative
+Additional test documentation below:
+- [test-scenarios](https://github.com/MaciejMatch/API-Testing-in-Postman/issues/1#issue-3860462255)
+- [test-cases](https://github.com/MaciejMatch/API-Testing-in-Postman/issues/2)
+- [test-scenarios-negative](https://github.com/MaciejMatch/API-Testing-in-Postman/issues/3#issue-3860466412)
 
 ## ✅ Key Features
 - Clean and readable project structure
