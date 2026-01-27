@@ -37,8 +37,8 @@ Base URL: https://jsonplaceholder.typicode.com/
 ```
 ## ▶️ How to Run Tests in Postman
 1. Open Postman
-2. Import the collection from /postman/collections
-3. Import the environment from /postman/environments
+2. Import the collection from [collection](https://github.com/MaciejMatch/API-Testing-in-Postman/blob/main/postmancollectionsJSONPlaceholder%20Full.postman%20collection.json.txt)
+3. Import the environment from [environment](https://github.com/MaciejMatch/API-Testing-in-Postman/blob/main/postmanenvironmentsdev.postman%20environment.json.txt)
 4. Select the environment and run tests manually or using the Collection Runner
 
 
