@@ -1,0 +1,11 @@
+{
+  "name": "api-testing-postman",
+  "version": "1.0.0",
+  "description": "Run Postman collections with Newman",
+  "scripts": {
+    "test": "npx newman run postman/collections/JSONPlaceholder.full.postman_collection.json -e postman/environments/dev.postman_environment.json --reporters cli,junit --reporter-junit-export reports/junit-report.xml"
+  },
+  "devDependencies": {
+    "newman": "^5.3.2"
+  }
+}

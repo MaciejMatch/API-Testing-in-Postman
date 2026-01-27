@@ -1,66 +1,40 @@
-# API Testing with Postman – JSONPlaceholder
+# API Testing in Postman
 
-## 📌 Project Description
-This repository presents a complete example of REST API testing using Postman and JavaScript-based tests. The project is based on the public JSONPlaceholder API, which is commonly used for learning and practicing API testing. The main goal of this project is to demonstrate API testing skills, proper test design and documentation, usage of Postman environments, positive and negative test scenarios, and basic automation with reporting.
+Repozytorium zawiera kolekcję Postman do testowania API (JSONPlaceholder) oraz środowisko. Poniższa struktura i skrypty pozwalają uruchamiać testy lokalnie oraz w CI (GitHub Actions) przy użyciu Newmana.
 
-## 🧰 Tools & Technologies
-- Postman
-- JavaScript (Postman Tests)
+Struktura
+- postman/collections/*.postman_collection.json
+- postman/environments/*.postman_environment.json
 
-## 🌐 API Under Test
-JSONPlaceholder API – public REST API for testing purposes  
-Base URL: https://jsonplaceholder.typicode.com/
+Wymagania
+- Node.js (LTS, np. 18+)
+- npm
 
-## 🧪 Scope of Testing
-- Functional API tests (GET, POST, PUT, DELETE)
-- Positive test scenarios
-- Negative test scenarios
-- HTTP status code validation
-- Response body validation
-- Basic performance checks
-- Usage of environment variable
+Instalacja
+1. Zainstaluj zależności:
+   ```bash
+   npm ci
+   ```
 
-## 📂 Project Structure
-```text
-├── jsonplaceholder-postman/
-│ ├── README.md
-│ ├── docs/
-│ │ ├── test-cases.md
-│ │ ├── test-scenarios.md
-│ │ └── test-scenarios-negative.md
-│ └── postman/
-│ ├── collections/
-│ │ └── JSONPlaceholder_Full.postman_collection.json
-│ └── environments/
-│ └── dev.postman_environment.json
+Uruchamianie testów lokalnie
+- Bezpośrednio przez npm:
+  ```bash
+  npm test
+  ```
+  Skrypt uruchamia Newmana na kolekcji i środowisku z katalogu postman/.
 
-```
-## ▶️ How to Run Tests in Postman
-1. Open Postman
-2. Import the collection from [collection](https://github.com/MaciejMatch/API-Testing-in-Postman/blob/main/postmancollectionsJSONPlaceholder%20Full.postman%20collection.json.txt)
-3. Import the environment from [environment](https://github.com/MaciejMatch/API-Testing-in-Postman/blob/main/postmanenvironmentsdev.postman%20environment.json.txt)
-4. Select the environment and run tests manually or using the Collection Runner
+Import do Postman
+- W Postman: File → Import → wybierz plik z postman/collections/ lub użyj linku/importu z pliku JSON.
 
+Bezpieczeństwo
+- Pliki środowiskowe nie powinny zawierać rzeczywistych sekretów. Używaj placeholderów (np. `<YOUR_API_KEY>`) i przechowuj prawdziwe wartości jako Secrets w CI.
 
-## 📝 Test Documentation
-Additional test documentation below:
-- [test-scenarios](https://github.com/MaciejMatch/API-Testing-in-Postman/issues/1#issue-3860462255)
-- [test-cases](https://github.com/MaciejMatch/API-Testing-in-Postman/issues/2)
-- [test-scenarios-negative](https://github.com/MaciejMatch/API-Testing-in-Postman/issues/3#issue-3860466412)
+CI (GitHub Actions)
+- Po dodaniu workflow (/.github/workflows/newman.yml) testy będą uruchamiane na push/PR do gałęzi main. Wyniki JUnit będą zapisywane jako artefakt.
 
-## ✅ Key Features
-- Clean and readable project structure
-- Well-organized Postman collection
-- JavaScript-based assertions
-- Positive and negative test coverage
+Dalsze kroki / sugestie
+- Dodaj badge CI do README po skonfigurowaniu workflow.
+- Rozbuduj asercje w kolekcji Postman (status codes, JSON schema).
+- (Opcjonalnie) dodaj newman-reporter-html dla czytelnych raportów HTML.
 
-## 📚 What I Learned
-- Designing API test scenarios
-- Writing maintainable Postman tests
-- Working with REST APIs
-
-## 👤 Author
-Created by Maciej Miszewski – QA / Software Tester
-
-## 📎 Notes
-This project was created for educational and portfolio purposes. The ReqRes API is a public API intended for testing and learning.
+Autor: Maciej Miszewski
