@@ -8,7 +8,7 @@ This repository presents a complete example of REST API testing using Postman an
 - JavaScript (Postman Tests)
 
 ## 🌐 API Under Test
-JSONPlaceholder API – public REST API for testing purposes  
+Restful-booker API – public REST API for testing purposes  
 Base URL: https://restful-booker.herokuapp.com/
 
 ## 🧪 Scope of Testing
