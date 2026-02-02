@@ -20,7 +20,7 @@ Base URL: https://restful-booker.herokuapp.com/
 - Basic performance checks
 - Usage of environment variable
 
-```
+
 ## ▶️ How to Run Tests in Postman
 1. Open Postman
 2. Import the collection from [collection](https://github.com/MaciejMatch/API-Testing-in-Postman/blob/main/postmancollectionsJSONPlaceholder%20Full.postman%20collection.json.txt)
