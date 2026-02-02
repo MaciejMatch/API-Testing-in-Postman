@@ -1,7 +1,7 @@
 # API Testing with Postman – JSONPlaceholder
 
 ## 📌 Project Description
-This repository presents a complete example of REST API testing using Postman and JavaScript-based tests. The project is based on the public JSONPlaceholder API, which is commonly used for learning and practicing API testing. The main goal of this project is to demonstrate API testing skills, proper test design and documentation, usage of Postman environments, positive and negative test scenarios, and basic automation with reporting.
+This repository presents a complete example of REST API testing using Postman and JavaScript-based tests. The project is based on the public Restful-booker API, which is commonly used for learning and practicing API testing. The main goal of this project is to demonstrate API testing skills, proper test design and documentation, usage of Postman environments, positive and negative test scenarios, and basic automation with reporting.
 
 ## 🧰 Tools & Technologies
 - Postman
@@ -9,30 +9,16 @@ This repository presents a complete example of REST API testing using Postman an
 
 ## 🌐 API Under Test
 JSONPlaceholder API – public REST API for testing purposes  
-Base URL: https://jsonplaceholder.typicode.com/
+Base URL: https://restful-booker.herokuapp.com/
 
 ## 🧪 Scope of Testing
-- Functional API tests (GET, POST, PUT, DELETE)
+- Functional API tests (GET, POST, PUT, PATCH, DELETE)
 - Positive test scenarios
 - Negative test scenarios
 - HTTP status code validation
 - Response body validation
 - Basic performance checks
 - Usage of environment variable
-
-## 📂 Project Structure
-```text
-├── jsonplaceholder-postman/
-│ ├── README.md
-│ ├── docs/
-│ │ ├── test-cases.md
-│ │ ├── test-scenarios.md
-│ │ └── test-scenarios-negative.md
-│ └── postman/
-│ ├── collections/
-│ │ └── JSONPlaceholder_Full.postman_collection.json
-│ └── environments/
-│ └── dev.postman_environment.json
 
 ```
 ## ▶️ How to Run Tests in Postman
@@ -44,9 +30,9 @@ Base URL: https://jsonplaceholder.typicode.com/
 
 ## 📝 Test Documentation
 Additional test documentation below:
-- [test-scenarios](https://github.com/MaciejMatch/API-Testing-in-Postman/issues/1#issue-3860462255)
-- [test-cases](https://github.com/MaciejMatch/API-Testing-in-Postman/issues/2)
-- [test-scenarios-negative](https://github.com/MaciejMatch/API-Testing-in-Postman/issues/3#issue-3860466412)
+- [test-scenarios]()
+- [test-cases]()
+- [test-scenarios-negative]()
 
 ## ✅ Key Features
 - Clean and readable project structure
