@@ -12,7 +12,7 @@ Restful-booker API – public REST API for testing purposes
 Base URL: https://restful-booker.herokuapp.com/
 
 ## :bulb: All documentation and testing steps are described in an open project on the Jira:
-[restful-booker-Jira-project](https://privaterelay-team-b8h6y4a3.atlassian.net/jira/software/projects/TESTS/boards/35?atlOrigin=eyJpIjoiNDcwNWRiZmFkNGQ5NDk1Nzg3MWNlZDMzOGEzZTMzZmQiLCJwIjoiaiJ9)
+[restful-booker-jira-project](https://privaterelay-team-b8h6y4a3.atlassian.net/jira/software/projects/TESTS/boards/35?atlOrigin=eyJpIjoiNDcwNWRiZmFkNGQ5NDk1Nzg3MWNlZDMzOGEzZTMzZmQiLCJwIjoiaiJ9)
 
 ## 🧪 Scope of Testing
 - Functional API tests (GET, POST, PUT, PATCH, DELETE)
