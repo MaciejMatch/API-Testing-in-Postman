@@ -11,6 +11,9 @@ This repository presents a complete example of REST API testing using Postman an
 Restful-booker API – public REST API for testing purposes  
 Base URL: https://restful-booker.herokuapp.com/
 
+## :bulb: All documentation and testing steps are described in an open project on the Jira:
+[Project](https://privaterelay-team-b8h6y4a3.atlassian.net/jira/software/projects/TESTS/boards/35?atlOrigin=eyJpIjoiNDcwNWRiZmFkNGQ5NDk1Nzg3MWNlZDMzOGEzZTMzZmQiLCJwIjoiaiJ9)
+
 ## 🧪 Scope of Testing
 - Functional API tests (GET, POST, PUT, PATCH, DELETE)
 - test scenarios
