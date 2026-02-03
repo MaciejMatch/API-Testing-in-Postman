@@ -1,4 +1,4 @@
-# API Testing with Postman – JSONPlaceholder
+# API Testing with Postman – Restful-booker
 
 ## 📌 Project Description
 This repository presents a complete example of REST API testing using Postman and JavaScript-based tests. The project is based on the public Restful-booker API, which is commonly used for learning and practicing API testing. The main goal of this project is to demonstrate API testing skills, proper test design and documentation, usage of Postman environments, positive and negative test scenarios, and basic automation with reporting.
@@ -7,14 +7,16 @@ This repository presents a complete example of REST API testing using Postman an
 - Postman
 - JavaScript (Postman Tests)
 
-## 🌐 API Under Test
+## 🌐 API Test
 Restful-booker API – public REST API for testing purposes  
 Base URL: https://restful-booker.herokuapp.com/
 
 ## 🧪 Scope of Testing
 - Functional API tests (GET, POST, PUT, PATCH, DELETE)
-- Positive test scenarios
-- Negative test scenarios
+- test scenarios
+- test cases
+- test Bug's
+- test report
 - HTTP status code validation
 - Response body validation
 - Basic performance checks
@@ -32,10 +34,10 @@ Base URL: https://restful-booker.herokuapp.com/
 Additional test documentation below:
 - [test-scenarios]()
 - [test-cases]()
-- [test-scenarios-negative]()
+- [test-report]()
+- [BUG report]()
 
 ## ✅ Key Features
-- Clean and readable project structure
 - Well-organized Postman collection
 - JavaScript-based assertions
 - Positive and negative test coverage
