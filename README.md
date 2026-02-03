@@ -34,7 +34,7 @@ Base URL: https://restful-booker.herokuapp.com/
 ## 📝 Test Documentation
 Additional test documentation below:
 - [test-scenarios](https://privaterelay-team-b8h6y4a3.atlassian.net/browse/TESTS-9?atlOrigin=eyJpIjoiNDdkMmNjMGE0ZWJkNDg3MWE3MzQ3ZGYzYWY4YTJlZDkiLCJwIjoiaiJ9)
-- [test-cases]()
+- [test-cases](https://github.com/MaciejMatch/API-Testing-in-Postman/blob/main/TEST_CASES.md)
 - [test-report](https://github.com/MaciejMatch/API-Testing-in-Postman/blob/main/Test_Report_Restful_booker.docx)
 - [bug's]()
 - [test scripts](https://privaterelay-team-b8h6y4a3.atlassian.net/browse/TESTS-23?atlOrigin=eyJpIjoiNzJhZmE0ZWM4MDg0NDMxNzg4ZjdlZTNkNzcyYTM1NzQiLCJwIjoiaiJ9)
