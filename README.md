@@ -15,18 +15,19 @@ Base URL: https://restful-booker.herokuapp.com/
 - Functional API tests (GET, POST, PUT, PATCH, DELETE)
 - test scenarios
 - test cases
-- test Bug's
+- test bug's
 - test report
 - HTTP status code validation
 - Response body validation
 - Basic performance checks
 - Usage of environment variable
+- test scripts
 
 
 ## ▶️ How to Run Tests in Postman
 1. Open Postman
-2. Import the collection from [collection](https://github.com/MaciejMatch/API-Testing-in-Postman/blob/main/postmancollectionsJSONPlaceholder%20Full.postman%20collection.json.txt)
-3. Import the environment from [environment](https://github.com/MaciejMatch/API-Testing-in-Postman/blob/main/postmanenvironmentsdev.postman%20environment.json.txt)
+2. Import the collection from [collection](https://github.com/MaciejMatch/API-Testing-in-Postman/blob/main/Booking.postman_collection.json)
+3. Import the environment from [environment](https://github.com/MaciejMatch/API-Testing-in-Postman/blob/main/token.postman_environment.json)
 4. Select the environment and run tests manually or using the Collection Runner
 
 
@@ -35,7 +36,9 @@ Additional test documentation below:
 - [test-scenarios]()
 - [test-cases]()
 - [test-report]()
-- [BUG report]()
+- [bug's]()
+- [test scripts](https://privaterelay-team-b8h6y4a3.atlassian.net/browse/TESTS-23?atlOrigin=eyJpIjoiNzJhZmE0ZWM4MDg0NDMxNzg4ZjdlZTNkNzcyYTM1NzQiLCJwIjoiaiJ9)
+- [run scripts](https://privaterelay-team-b8h6y4a3.atlassian.net/browse/TESTS-24?atlOrigin=eyJpIjoiYzFhOGE3ZDMyYTEzNGZhNjgyZjZiYjM5MTJkNTBlZDYiLCJwIjoiaiJ9)
 
 ## ✅ Key Features
 - Well-organized Postman collection
