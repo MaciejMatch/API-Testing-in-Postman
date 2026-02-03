@@ -36,7 +36,7 @@ Additional test documentation below:
 - [test-scenarios](https://privaterelay-team-b8h6y4a3.atlassian.net/browse/TESTS-9?atlOrigin=eyJpIjoiNDdkMmNjMGE0ZWJkNDg3MWE3MzQ3ZGYzYWY4YTJlZDkiLCJwIjoiaiJ9)
 - [test-cases](https://github.com/MaciejMatch/API-Testing-in-Postman/blob/main/TEST_CASES.md)
 - [test-report](https://github.com/MaciejMatch/API-Testing-in-Postman/blob/main/Test_Report_Restful_booker.docx)
-- [bug's]()
+- [bugs](https://github.com/MaciejMatch/API-Testing-in-Postman/blob/main/BUGs.md)
 - [test scripts](https://privaterelay-team-b8h6y4a3.atlassian.net/browse/TESTS-23?atlOrigin=eyJpIjoiNzJhZmE0ZWM4MDg0NDMxNzg4ZjdlZTNkNzcyYTM1NzQiLCJwIjoiaiJ9)
 - [run scripts](https://privaterelay-team-b8h6y4a3.atlassian.net/browse/TESTS-24?atlOrigin=eyJpIjoiYzFhOGE3ZDMyYTEzNGZhNjgyZjZiYjM5MTJkNTBlZDYiLCJwIjoiaiJ9)
 
