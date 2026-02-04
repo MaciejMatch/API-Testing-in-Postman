@@ -38,7 +38,7 @@ Base URL: https://restful-booker.herokuapp.com/
 Additional test documentation below:
 - [test-scenarios](https://github.com/MaciejMatch/API-Testing-in-Postman/blob/main/Test%20Scenario.md)
 - [test-cases](https://github.com/MaciejMatch/API-Testing-in-Postman/blob/main/TEST_CASES.md)
-- [test-report](https://github.com/MaciejMatch/API-Testing-in-Postman/blob/f558443af22fb678c8ac48e08d3987d806cff0f9/Test_Report_Restful_booker.docx)
+- [test-report (Word Document)](https://github.com/MaciejMatch/API-Testing-in-Postman/blob/f558443af22fb678c8ac48e08d3987d806cff0f9/Test_Report_Restful_booker.docx)
 - [bugs](https://github.com/MaciejMatch/API-Testing-in-Postman/blob/main/BUGs.md)
 - [test scripts](https://github.com/MaciejMatch/API-Testing-in-Postman/blob/main/Test%20Scripts.md)
 - [run scripts](https://github.com/MaciejMatch/API-Testing-in-Postman/blob/main/Run%20Scripts.md)
