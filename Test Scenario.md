@@ -114,6 +114,3 @@ Tests the complete lifecycle of a booking: **create → retrieve → update → 
 
 ---
 
-## Notes
-- Use proper assertions to validate response codes and the structure of the response body.
-- Ensure that all API interactions return consistent and expected results to avoid flaky tests.
