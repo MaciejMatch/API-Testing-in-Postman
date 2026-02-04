@@ -102,8 +102,9 @@ After PUT:
 Before PATCH:  
 ![Before PATCH](https://github.com/MaciejMatch/API-Testing-in-Postman/blob/main/screenshots/2026-02-02_15h46_44%20(1).png)
 
-After PATCH:  
+After PATCH: 
 ![After PATCH](https://github.com/MaciejMatch/API-Testing-in-Postman/blob/main/screenshots/2026-02-02_15h49_05%20(1).png)
+
 ---
 
 ## Test Case 7 - Delete Booking
