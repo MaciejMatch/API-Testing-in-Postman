@@ -12,6 +12,6 @@
 ---
 
 ### Notes
-- Ensure the **RESTful‑Booker API** is running before starting the collection.
+- Ensure the **Restful‑Booker API** is running before starting the collection.
 - Verify that your initial environment variables are set correctly to avoid test failures.
 - After running the collection, review the test results to confirm all scenarios have passed.
