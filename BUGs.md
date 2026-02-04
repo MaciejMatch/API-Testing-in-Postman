@@ -16,9 +16,7 @@ This inconsistency may lead to consumers building requests according to the docu
 
 ### Actual Result:
 - API returns **500 Internal Server Error** for requests that follow the documentation.
-
-#### Screenshot Placeholder:
-![Bug 1 - Actual Result (500 Error)](./screenshots/bug1-500-error.png)
+![Bug 1 - Actual Result (500 Error)](https://github.com/MaciejMatch/API-Testing-in-Postman/blob/main/screenshots/BUG1.png)
 
 ### Expected Result:
 - Documentation should clearly specify that `checkin` and `checkout` fields must be nested under the `bookingdates` object.  
@@ -56,9 +54,7 @@ This behavior indicates improper error handling. Invalid client input should not
 
 ### Actual Result:
 - API incorrectly returns **500 Internal Server Error** for the invalid request.
-
-#### Screenshot Placeholder:
-![Bug 2 - Actual Result (500 Error)](./screenshots/bug2-500-error.png)
+![Bug 2 - Actual Result (500 Error)](https://github.com/MaciejMatch/API-Testing-in-Postman/blob/main/screenshots/BUG2.png)
 
 ### Expected Result:
 - API should return **400 Bad Request**.  
