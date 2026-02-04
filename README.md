@@ -40,8 +40,8 @@ Additional test documentation below:
 - [test-cases](https://github.com/MaciejMatch/API-Testing-in-Postman/blob/main/TEST_CASES.md)
 - [test-report](https://github.com/MaciejMatch/API-Testing-in-Postman/blob/main/Test_Report_Restful_booker.docx)
 - [bugs](https://github.com/MaciejMatch/API-Testing-in-Postman/blob/main/BUGs.md)
-- [test scripts](https://privaterelay-team-b8h6y4a3.atlassian.net/browse/TESTS-23?atlOrigin=eyJpIjoiNzJhZmE0ZWM4MDg0NDMxNzg4ZjdlZTNkNzcyYTM1NzQiLCJwIjoiaiJ9)
-- [run scripts](https://privaterelay-team-b8h6y4a3.atlassian.net/browse/TESTS-24?atlOrigin=eyJpIjoiYzFhOGE3ZDMyYTEzNGZhNjgyZjZiYjM5MTJkNTBlZDYiLCJwIjoiaiJ9)
+- [test scripts](https://github.com/MaciejMatch/API-Testing-in-Postman/blob/main/Test%20Scripts.md)
+- [run scripts](https://github.com/MaciejMatch/API-Testing-in-Postman/blob/main/Run%20Scripts.md)
 
 ## ✅ Key Features
 - Well-organized Postman collection
