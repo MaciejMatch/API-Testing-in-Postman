@@ -18,7 +18,7 @@ Base URL: https://restful-booker.herokuapp.com/
 - Functional API tests (GET, POST, PUT, PATCH, DELETE)
 - test scenarios
 - test cases
-- test bug's
+- test bugs
 - test report
 - HTTP status code validation
 - Response body validation
