@@ -57,4 +57,4 @@ Additional test documentation below:
 Created by Maciej Miszewski – QA / Software Tester
 
 ## 📎 Notes
-This project was created for educational and portfolio purposes. The ReqRes API is a public API intended for testing and learning.
+This project was created for educational and portfolio purposes. The Restful-booker is a public API intended for testing and learning.
